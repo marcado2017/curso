@@ -1,3 +1,5 @@
 <?php
-echo "hola php esta es la definitiva";
+  // para saber que versión de php tenemos.
+  phpinfo();
+  
  ?>
